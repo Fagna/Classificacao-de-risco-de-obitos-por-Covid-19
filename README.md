@@ -20,7 +20,7 @@ O modelo óbtido para classificar o risco de óbito por covid-19 considerou a se
 | Gestante          | 1 - Sim, 0 - Não                   | Categórica |
 
 
-O resultados da análise de Machine Learning foram os seguientes:
+O resultados da análise de Machine Learning foram os seguintes:
 
 | Algoritmo            | AUC    | VP     | FP     | Acurácia |
 |----------------------|--------|--------|--------|----------|
