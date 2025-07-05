@@ -32,4 +32,4 @@ O resultados da análise de Machine Learning foram os seguintes:
 
 Foi obtido um modelo capaz de classificar corretamente o desfecho da doença em 80% dos casos, baseando-se em informações que podem ser coletadas do paciente no momento em que o mesmo der entrada no unidade de atendimento.
 
-
+**Observação:** Durante o desenvolvimento do TCC, apliquei transformação nos dados antes da divisão treino/teste, o que caracteriza um vazamento de dados. Posteriormente, identifiquei esse ponto e corrigi em projetos seguintes, utilizando Pipelines para evitar esse tipo de falha.
